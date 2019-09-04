@@ -51,7 +51,6 @@ print("                     & & & & & & & & & & & & & & & &")
 
 print(W)
 
-print(" -----[C] 2019------|| CŁAiRҚS M.T ||--------------------")
 print
 ip = raw_input("Enter IP  : ")
 port = input("Enter Port       : ")
